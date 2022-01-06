@@ -108,6 +108,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>mvc-prospects</finalName>
 	</build>
 
 </project>
